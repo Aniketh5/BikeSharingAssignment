@@ -11,10 +11,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The problem statement revolves around a bike-sharing company, BoomBikes, which has experienced a decline in revenue due to the COVID-19 pandemic. In an effort to recover and thrive post-lockdown, they aim to understand the demand for shared bikes in the American market. To achieve this, they have collected a dataset containing various factors that may influence bike demand.
+
+The business goal is to develop a predictive model for bike demand using the available independent variables. This model will help the management understand how demand varies with different features, enabling them to adjust their business strategy accordingly. By gaining insights into demand dynamics, BoomBikes can effectively cater to customer expectations and capitalize on market opportunities.
+
+In summary, BoomBikes seeks to leverage data analysis to predict bike demand and inform strategic decision-making, ultimately driving revenue growth and market expansion in the post-pandemic period.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
