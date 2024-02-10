@@ -19,10 +19,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 1. Holiday, Humidity, Windspeed, Cloudy Weather,Light Snow Rain, and the months of January & July have a negative impact on the final count.
+- 2. Year,WorkingDay, Temperature, Summer, Winter, Saturday, and the September month have a positive impact on the final count.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
